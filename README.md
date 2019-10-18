@@ -8,4 +8,4 @@ Simple: Each language gets its own directory, each tool its own subdirectory.
 
 ## Source
 
-The project is hosted at [https://gitlab.com/bell-computer-netzwerke/xmc-nbi-clients](https://gitlab.com/bell-computer-netzwerke/xmc-nbi-clients).
+This is a fork of the original project hosted at [https://gitlab.com/bell-computer-netzwerke/xmc-nbi-clients](https://gitlab.com/bell-computer-netzwerke/xmc-nbi-clients).
