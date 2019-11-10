@@ -1,0 +1,16 @@
+[submodule "Python/DeviceLister"]
+	path = Python/DeviceLister
+	url = https://gitlab.com/rbrt-weiler/xmc-nbi-devicelister-py.git
+	branch = stable
+[submodule "Go/DeviceLister"]
+	path = Go/DeviceLister
+	url = https://gitlab.com/rbrt-weiler/xmc-nbi-devicelister-go.git
+	branch = stable
+[submodule "Go/GenericNbiClient"]
+	path = Go/GenericNbiClient
+	url = https://gitlab.com/rbrt-weiler/xmc-nbi-genericnbiclient-go.git
+	branch = stable
+[submodule "Go/VlanLister"]
+	path = Go/VlanLister
+	url = https://gitlab.com/rbrt-weiler/xmc-nbi-vlanlister-go.git
+	branch = stable
