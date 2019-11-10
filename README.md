@@ -12,4 +12,4 @@ If you have cloned the repository without recursing, `git submodule update --ini
 
 ## Source
 
-The original project is [hosted at GitLab](https://gitlab.com/bell-computer-netzwerke/xmc-nbi-clients), with a [fork by the original author](https://gitlab.com/rbrt-weiler/xmc-nbi-clients) at GitLab and a [copy over at GitHub](https://gitlab.com/rbrt-weiler/xmc-nbi-clients). Fork and copy may be more current.
+The original project is [hosted at GitLab](https://gitlab.com/bell-computer-netzwerke/xmc-nbi-clients), with a [fork by the original author](https://gitlab.com/rbrt-weiler/xmc-nbi-clients) at GitLab and a [copy over at GitHub](https://github.com/rbrt-weiler/xmc-nbi-clients). Fork and copy may be more current.
