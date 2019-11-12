@@ -8,7 +8,7 @@ As this projects primarily consists of submodules you should clone with `--recur
 
 `git clone --recurse-submodules https://gitlab.com/bell-computer-netzwerke/xmc-nbi-clients.git`
 
-If you have cloned the repository without recursing, `git submodule update --init --recursive` may help.
+If you have cloned the repository without recursing, `git submodule update --init --recursive` may help. Bumping every submodule to the most current version can be achieved with `git submodule update --remote --merge`.
 
 ## Source
 
