@@ -14,3 +14,7 @@
 	path = Go/VlanLister
 	url = https://gitlab.com/rbrt-weiler/xmc-nbi-vlanlister-go.git
 	branch = stable
+[submodule "Python/GenericNbiClient"]
+	path = Python/GenericNbiClient
+	url = https://gitlab.com/rbrt-weiler/xmc-nbi-genericnbiclient-py.git
+	branch = stable
