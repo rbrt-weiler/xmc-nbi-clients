@@ -18,3 +18,7 @@
 	path = Python/GenericNbiClient
 	url = https://gitlab.com/rbrt-weiler/xmc-nbi-genericnbiclient-py.git
 	branch = stable
+[submodule "Rust/GenericNbiClient"]
+	path = Rust/GenericNbiClient
+	url = https://gitlab.com/rbrt-weiler/xmc-nbi-genericnbiclient-rs.git
+	branch = stable
